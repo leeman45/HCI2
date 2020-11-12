@@ -6,7 +6,7 @@ Figma URL: https://www.figma.com/file/72gjT0wsXv91NVayD7EBKV/Assignment-1?node-i
 
 Explanation Video: https://youtu.be/EysGJKQrpdI
 
-##Screenshots
+## Screenshots
 
 ![alt text](https://github.com/leeman45/HCI2/blob/main/HCI%20Assignment%202%20Screenshot.PNG?raw=true)
 
